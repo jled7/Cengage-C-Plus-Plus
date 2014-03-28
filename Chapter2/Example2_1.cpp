@@ -20,8 +20,8 @@ int main()
 
 	length = 6.0;
 	width = 4.0;
-	area = 2 * (length + width);
-	perimeter = length * width;
+	perimeter = 2 * (length + width);
+	area = length * width;
 
 	cout << "Length = " << length << endl;
 	cout << "Width = " << width << endl;
