@@ -8,7 +8,7 @@ using namespace std;
 int main()
 {
 	int inches; //variable to store total inches
-	cout << "Enter total inches and press Enter: "; //prompt the user to
+	inches = 100; //prompt the user to
 							// enter total inches
 	cin >> inches; //store the value entered by the user
 		       // into the variable inches
